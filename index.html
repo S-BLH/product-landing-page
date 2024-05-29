@@ -1,87 +1,74 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Clothes Brand | Product Landing Page</title>
     <link rel="stylesheet" href="styles.css">
+    <title>Clothing Brand - Product Landing Page</title>
 </head>
-
 <body>
     <header>
         <nav>
-            <img src="logo.png" alt="Logo" id="logo">
-            <ul class="nav-links">
-                <li><a href="#about">About</a></li>
+            <a href="#" class="logo">Clothing Brand</a>
+            <ul>
                 <li><a href="#products">Products</a></li>
-                <li><a href="#subscribe">Subscribe</a></li>
+                <li><a href="#about">About</a></li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
         </nav>
     </header>
 
     <section id="hero">
-        <h1>Welcome to our Clothes Brand</h1>
-        <p>Discover the latest fashion trends</p>
-        <a href="#products" class="cta-button">Shop Now</a>
-    </section>
-
-    <section id="about">
-        <h2>About Us</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla id sapien eget eros eleifend condimentum.
-            Quisque interdum iaculis sem, a blandit purus feugiat in.</p>
-        <img src="about-image.jpg" alt="About Us" class="about-image">
+        <div class="hero-content">
+            <h1>Welcome to Clothing Brand</h1>
+            <p>Discover the latest trends in fashion</p>
+            <a href="#products" class="cta-button">Shop Now</a>
+        </div>
     </section>
 
     <section id="products">
-        <h2>Our Products</h2>
         <div class="product">
-            <img src="product1.jpg" alt="Product 1" class="product-image">
+            <img src="product1.jpg" alt="Product 1">
             <h3>Product 1</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            <a href="#" class="cta-button">View Details</a>
+            <p>Price: $29.99</p>
+            <a href="#" class="buy-now-button">Buy Now</a>
         </div>
         <div class="product">
-            <img src="product2.jpg" alt="Product 2" class="product-image">
+            <img src="product2.jpg" alt="Product 2">
             <h3>Product 2</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            <a href="#" class="cta-button">View Details</a>
+            <p>Price: $39.99</p>
+            <a href="#" class="buy-now-button">Buy Now</a>
         </div>
         <div class="product">
-            <img src="product3.jpg" alt="Product 3" class="product-image">
+            <img src="product3.jpg" alt="Product 3">
             <h3>Product 3</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            <a href="#" class="cta-button">View Details</a>
+            <p>Price: $49.99</p>
+            <a href="#" class="buy-now-button">Buy Now</a>
         </div>
     </section>
 
-    <section id="subscribe">
-        <h2>Subscribe to Our Newsletter</h2>
-        <p>Stay updated with our latest offers and promotions</p>
-        <form>
-            <input type="email" placeholder="Enter your email" required>
-            <button type="submit">Subscribe</button>
-        </form>
+    <section id="about">
+        <div class="about-content">
+            <h2>About Us</h2>
+            <p>We are a leading clothing brand that offers high-quality and trendy fashion for all occasions.</p>
+        </div>
     </section>
 
     <section id="contact">
-        <h2>Contact Us</h2>
-        <p>If you have any questions, feel free to reach out to us</p>
-        <form>
-            <input type="text" placeholder="Name" required>
-            <input type="email" placeholder="Email" required>
-            <textarea placeholder="Message" required></textarea>
-            <button type="submit">Send Message</button>
-        </form>
+        <div class="contact-content">
+            <h2>Contact Us</h2>
+            <p>Feel free to reach out to us for any inquiries or feedback.</p>
+            <form>
+                <input type="text" placeholder="Name">
+                <input type="email" placeholder="Email">
+                <textarea placeholder="Message"></textarea>
+                <button type="submit">Send Message</button>
+            </form>
+        </div>
     </section>
 
     <footer>
-        <div class="footer-content">
-            <img src="logo.png" alt="Logo" id="footer-logo">
-            <p>&copy; 2021 Clothes Brand. All rights reserved.</p>
-        </div>
+        <p>&copy; 2021 Clothing Brand. All rights reserved.</p>
     </footer>
 </body>
-
 </html>
