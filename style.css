@@ -8,11 +8,11 @@
 body {
   font-family: 'Poppins', sans-serif;
   color: #333;
-  background: linear-gradient(to bottom, #f4f4f4, #dcdcdc);
+  background: linear-gradient(to bottom, #705959, #dcdcdc);
 }
 
 header {
-  background-color: #fff;
+  background-color: #daabab;
   padding: 20px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
