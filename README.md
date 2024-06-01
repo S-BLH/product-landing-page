@@ -23,7 +23,7 @@
 - Email: sumitabalouch@gmail.com
 
 ## Demo
-file:///C:/Users/Black%20Store/Desktop/ss2.pdf
+C:\Users\Black Store\Desktop\Screenshot 2024-06-01 205849.png
 
 ## License 📜
 
