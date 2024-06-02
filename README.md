@@ -9,8 +9,6 @@
 
 
 ## Technologies Used 🛠️
-
-
 - HTML
 - CSS
 - vscode
@@ -18,14 +16,11 @@
 
 
 ## Author 👩‍💻
-
 - LinkedIn: https://www.linkedin.com/in/sumita-balouch-959197309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 - Email: sumitabalouch@gmail.com
 
 ## Demo
-C:\Users\Black Store\Desktop\Screenshot 2024-06-01 205849.png
+C:\Users\Black Store\Desktop\Screenshot 2024-06-02 090458.png
 
 ## License 📜
-
 no license were added to this project.
-
