@@ -7,7 +7,6 @@
 - I learnt new css and html codes which are necessary for projects and websites
 - I implemented all the requirements of the project
 
-
 ## Technologies Used 🛠️
 - HTML
 - CSS
