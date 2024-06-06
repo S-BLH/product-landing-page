@@ -19,7 +19,7 @@
 - Email: sumitabalouch@gmail.com
 
 ## Demo
-https://s-blh.github.io/survey-form/
+https://s-blh.github.io/product-landing-page/
 
 ## License 📜
 no license were added to this project.
