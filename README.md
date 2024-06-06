@@ -19,7 +19,7 @@
 - Email: sumitabalouch@gmail.com
 
 ## Demo
-C:\Users\Black Store\Desktop\Screenshot 2024-06-02 090458.png
+https://s-blh.github.io/survey-form/
 
 ## License 📜
 no license were added to this project.
